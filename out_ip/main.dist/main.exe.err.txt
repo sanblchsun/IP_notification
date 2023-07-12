@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "C:\Users\makosov.a\DOCUME~1\project\out_ip\MAIN~1.DIS\loader.py", line 18, in <module loader>
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\makosov.a\DOCUME~1\project\out_ip\MAIN~1.DIS\main.py", line 5, in <module>
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "C:\Users\makosov.a\DOCUME~1\project\out_ip\MAIN~1.DIS\loader.py", line 31, in <module loader>
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc7 in position 10: invalid continuation byte

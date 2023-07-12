@@ -1,0 +1,4 @@
+out_ip/venv
+out_ip/main.build
+out_ip/.env
+passwd_crypto/passwd_crypto.build
